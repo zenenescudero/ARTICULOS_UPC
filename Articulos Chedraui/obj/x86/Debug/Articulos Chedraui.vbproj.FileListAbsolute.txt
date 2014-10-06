@@ -1,0 +1,78 @@
+D:\usuarios\zcruz\Downloads\Articulos Chedraui\Articulos Chedraui\bin\Debug\Articulos Chedraui.exe
+D:\usuarios\zcruz\Downloads\Articulos Chedraui\Articulos Chedraui\bin\Debug\Articulos Chedraui.pdb
+D:\usuarios\zcruz\Downloads\Articulos Chedraui\Articulos Chedraui\bin\Debug\Articulos Chedraui.xml
+D:\usuarios\zcruz\Downloads\Articulos Chedraui\Articulos Chedraui\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\usuarios\zcruz\Downloads\Articulos Chedraui\Articulos Chedraui\obj\x86\Debug\Articulos_Chedraui.articulosupc.resources
+D:\usuarios\zcruz\Downloads\Articulos Chedraui\Articulos Chedraui\obj\x86\Debug\Articulos_Chedraui.Resources.resources
+D:\usuarios\zcruz\Downloads\Articulos Chedraui\Articulos Chedraui\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\usuarios\zcruz\Downloads\Articulos Chedraui\Articulos Chedraui\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\usuarios\zcruz\Downloads\Articulos Chedraui\Articulos Chedraui\obj\x86\Debug\Articulos Chedraui.exe
+D:\usuarios\zcruz\Downloads\Articulos Chedraui\Articulos Chedraui\obj\x86\Debug\Articulos Chedraui.xml
+D:\usuarios\zcruz\Downloads\Articulos Chedraui\Articulos Chedraui\obj\x86\Debug\Articulos Chedraui.pdb
+D:\usuarios\zcruz\Downloads\Articulos Chedraui\Articulos Chedraui\obj\x86\Debug\Articulos_Chedraui.Principal.resources
+d:\usuarios\zcruz\Downloads\Articulos Chedraui\Articulos Chedraui\bin\Debug\Articulos Chedraui.exe.config
+D:\usuarios\zcruz\Downloads\Articulos Chedraui\Articulos Chedraui\obj\x86\Debug\Articulos_Chedraui.ResultadosArticulos.resources
+D:\usuarios\zcruz\Downloads\Articulos Chedraui\Articulos Chedraui\obj\x86\Debug\Articulos_Chedraui.Resultados_UPC.resources
+D:\usuarios\zcruz\Downloads\Articulos Chedraui\Articulos Chedraui\obj\x86\Debug\Articulos_Chedraui.articulos.resources
+D:\usuarios\zcruz\Downloads\Articulos Chedraui\Articulos Chedraui\obj\x86\Debug\Articulos_Chedraui.pruebas.resources
+D:\usuarios\zcruz\Downloads\Articulos Chedraui\Articulos Chedraui\obj\x86\Debug\Articulos_Chedraui.Origen_de_Datos.resources
+D:\usuarios\zcruz\Downloads\Articulos Chedraui\Articulos Chedraui\bin\Debug\Articulos Chedraui.exe.manifest
+D:\usuarios\zcruz\Downloads\Articulos Chedraui\Articulos Chedraui\bin\Debug\Articulos Chedraui.application
+D:\usuarios\zcruz\Downloads\Articulos Chedraui\Articulos Chedraui\obj\x86\Debug\Articulos Chedraui.exe.manifest
+D:\usuarios\zcruz\Downloads\Articulos Chedraui\Articulos Chedraui\obj\x86\Debug\Articulos Chedraui.application
+D:\Users\zcruz\Downloads\Articulos Chedraui\Articulos Chedraui\bin\Debug\Articulos Chedraui.exe.config
+D:\Users\zcruz\Downloads\Articulos Chedraui\Articulos Chedraui\obj\x86\Debug\Articulos Chedraui.exe
+D:\Users\zcruz\Downloads\Articulos Chedraui\Articulos Chedraui\obj\x86\Debug\Articulos Chedraui.xml
+D:\Users\zcruz\Downloads\Articulos Chedraui\Articulos Chedraui\obj\x86\Debug\Articulos Chedraui.pdb
+D:\Users\zcruz\Downloads\Articulos Chedraui\Articulos Chedraui\bin\Debug\Articulos Chedraui.exe.manifest
+D:\Users\zcruz\Downloads\Articulos Chedraui\Articulos Chedraui\bin\Debug\Articulos Chedraui.application
+D:\Users\zcruz\Downloads\Articulos Chedraui\Articulos Chedraui\bin\Debug\Articulos Chedraui.exe
+D:\Users\zcruz\Downloads\Articulos Chedraui\Articulos Chedraui\bin\Debug\Articulos Chedraui.pdb
+D:\Users\zcruz\Downloads\Articulos Chedraui\Articulos Chedraui\bin\Debug\Articulos Chedraui.xml
+D:\Users\zcruz\Downloads\Articulos Chedraui\Articulos Chedraui\obj\x86\Debug\Articulos_Chedraui.articulosupc.resources
+D:\Users\zcruz\Downloads\Articulos Chedraui\Articulos Chedraui\obj\x86\Debug\Articulos_Chedraui.articulos.resources
+D:\Users\zcruz\Downloads\Articulos Chedraui\Articulos Chedraui\obj\x86\Debug\Articulos_Chedraui.Origen_de_Datos.resources
+D:\Users\zcruz\Downloads\Articulos Chedraui\Articulos Chedraui\obj\x86\Debug\Articulos_Chedraui.pruebas.resources
+D:\Users\zcruz\Downloads\Articulos Chedraui\Articulos Chedraui\obj\x86\Debug\Articulos_Chedraui.ResultadosArticulos.resources
+D:\Users\zcruz\Downloads\Articulos Chedraui\Articulos Chedraui\obj\x86\Debug\Articulos_Chedraui.Principal.resources
+D:\Users\zcruz\Downloads\Articulos Chedraui\Articulos Chedraui\obj\x86\Debug\Articulos_Chedraui.Resources.resources
+D:\Users\zcruz\Downloads\Articulos Chedraui\Articulos Chedraui\obj\x86\Debug\Articulos_Chedraui.Resultados_UPC.resources
+D:\Users\zcruz\Downloads\Articulos Chedraui\Articulos Chedraui\obj\x86\Debug\Articulos Chedraui.exe.manifest
+D:\Users\zcruz\Downloads\Articulos Chedraui\Articulos Chedraui\obj\x86\Debug\Articulos Chedraui.application
+D:\Users\zcruz\Downloads\Articulos Chedraui\Articulos Chedraui\obj\x86\Debug\Articulos Chedraui.vbprojResolveAssemblyReference.cache
+D:\Users\zcruz\Downloads\Articulos Chedraui\Articulos Chedraui\obj\x86\Debug\Articulos Chedraui.vbproj.GenerateResource.Cache
+D:\Users\zcruz\Downloads\Articulos Chedraui\Articulos Chedraui\obj\x86\Debug\Articulos_Chedraui.generartexto.resources
+D:\ZENEN\DESARROLLOS\Articulos Chedraui\Articulos Chedraui\bin\Debug\Articulos Chedraui.exe.config
+D:\ZENEN\DESARROLLOS\Articulos Chedraui\Articulos Chedraui\obj\x86\Debug\Articulos Chedraui.exe
+D:\ZENEN\DESARROLLOS\Articulos Chedraui\Articulos Chedraui\obj\x86\Debug\Articulos Chedraui.xml
+D:\ZENEN\DESARROLLOS\Articulos Chedraui\Articulos Chedraui\obj\x86\Debug\Articulos Chedraui.pdb
+D:\ZENEN\DESARROLLOS\Articulos Chedraui\Articulos Chedraui\bin\Debug\Articulos Chedraui.exe.manifest
+D:\ZENEN\DESARROLLOS\Articulos Chedraui\Articulos Chedraui\bin\Debug\Articulos Chedraui.application
+D:\ZENEN\DESARROLLOS\Articulos Chedraui\Articulos Chedraui\bin\Debug\Articulos Chedraui.exe
+D:\ZENEN\DESARROLLOS\Articulos Chedraui\Articulos Chedraui\bin\Debug\Articulos Chedraui.pdb
+D:\ZENEN\DESARROLLOS\Articulos Chedraui\Articulos Chedraui\bin\Debug\Articulos Chedraui.xml
+D:\ZENEN\DESARROLLOS\Articulos Chedraui\Articulos Chedraui\bin\Debug\System.Data.DataSetExtensions.dll
+D:\ZENEN\DESARROLLOS\Articulos Chedraui\Articulos Chedraui\bin\Debug\System.Data.dll
+D:\ZENEN\DESARROLLOS\Articulos Chedraui\Articulos Chedraui\bin\Debug\System.Deployment.dll
+D:\ZENEN\DESARROLLOS\Articulos Chedraui\Articulos Chedraui\bin\Debug\System.dll
+D:\ZENEN\DESARROLLOS\Articulos Chedraui\Articulos Chedraui\bin\Debug\System.Drawing.dll
+D:\ZENEN\DESARROLLOS\Articulos Chedraui\Articulos Chedraui\bin\Debug\System.Windows.Forms.dll
+D:\ZENEN\DESARROLLOS\Articulos Chedraui\Articulos Chedraui\bin\Debug\System.Xml.dll
+D:\ZENEN\DESARROLLOS\Articulos Chedraui\Articulos Chedraui\bin\Debug\System.Xml.Linq.dll
+D:\ZENEN\DESARROLLOS\Articulos Chedraui\Articulos Chedraui\obj\x86\Debug\Articulos Chedraui.vbprojResolveAssemblyReference.cache
+D:\ZENEN\DESARROLLOS\Articulos Chedraui\Articulos Chedraui\obj\x86\Debug\Articulos_Chedraui.articulosupc.resources
+D:\ZENEN\DESARROLLOS\Articulos Chedraui\Articulos Chedraui\obj\x86\Debug\Articulos_Chedraui.articulos.resources
+D:\ZENEN\DESARROLLOS\Articulos Chedraui\Articulos Chedraui\obj\x86\Debug\Articulos_Chedraui.generartexto.resources
+D:\ZENEN\DESARROLLOS\Articulos Chedraui\Articulos Chedraui\obj\x86\Debug\Articulos_Chedraui.Origen_de_Datos.resources
+D:\ZENEN\DESARROLLOS\Articulos Chedraui\Articulos Chedraui\obj\x86\Debug\Articulos_Chedraui.pruebas.resources
+D:\ZENEN\DESARROLLOS\Articulos Chedraui\Articulos Chedraui\obj\x86\Debug\Articulos_Chedraui.ResultadosArticulos.resources
+D:\ZENEN\DESARROLLOS\Articulos Chedraui\Articulos Chedraui\obj\x86\Debug\Articulos_Chedraui.Principal.resources
+D:\ZENEN\DESARROLLOS\Articulos Chedraui\Articulos Chedraui\obj\x86\Debug\Articulos_Chedraui.Resources.resources
+D:\ZENEN\DESARROLLOS\Articulos Chedraui\Articulos Chedraui\obj\x86\Debug\Articulos_Chedraui.Resultados_UPC.resources
+D:\ZENEN\DESARROLLOS\Articulos Chedraui\Articulos Chedraui\obj\x86\Debug\Articulos Chedraui.vbproj.GenerateResource.Cache
+D:\ZENEN\DESARROLLOS\Articulos Chedraui\Articulos Chedraui\obj\x86\Debug\Articulos Chedraui.exe.manifest
+D:\ZENEN\DESARROLLOS\Articulos Chedraui\Articulos Chedraui\obj\x86\Debug\Articulos Chedraui.application
+D:\ZENEN\DESARROLLOS\Articulos Chedraui\Nueva carpeta\Articulos Chedraui\bin\Debug\Articulos Chedraui.exe.config
+D:\ZENEN\DESARROLLOS\Articulos Chedraui\Nueva carpeta\Articulos Chedraui\obj\x86\Debug\Articulos Chedraui.exe
+D:\ZENEN\DESARROLLOS\Articulos Chedraui\Nueva carpeta\Articulos Chedraui\obj\x86\Debug\Articulos Chedraui.xml
+D:\ZENEN\DESARROLLOS\Articulos Chedraui\Nueva carpeta\Articulos Chedraui\obj\x86\Debug\Articulos Chedraui.pdb
